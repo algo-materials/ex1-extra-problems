@@ -29,3 +29,19 @@ Given the following list of prices:
 |price _pi_|2|4|7|11|13|
 
 Find the maximum revenue and cut lists (r and s)
+
+---
+
+Given the following list of prices:
+
+|length _i_|1|2|3|4|5|6|7|8|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|price _pi_|1|0|1|4|5|7|7|8|
+
+Find the maximum revenue and cut lists (r and s)
+
+---
+
+## Longest Common Subsequence
+
+Find the LCS between 'abcdef' and 'defabc'
