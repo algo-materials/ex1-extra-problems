@@ -44,4 +44,16 @@ Find the maximum revenue and cut lists (r and s)
 
 ## Longest Common Subsequence
 
-Find the LCS between 'abcdef' and 'defabc'
+Find the LCS in 'abcdef' and 'defabc' (show the result matrix and the longest subsequence)
+
+---
+
+Find the LCS in 'tcvrmb' and 'rtmvcb'
+
+---
+
+Find the LCS in 'brgqla' and 'rgabql' 
+
+---
+
+Find the LCS in 'lollygag' and 'brouhaha'
